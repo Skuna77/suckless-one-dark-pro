@@ -21,7 +21,6 @@ You can switch or tweak these themes easily by editing `config.h` in each tool�
 ![One Dark Pro Theme](images/st.png)
 ![Minimal Theme](images/dwm.png)
 
-> 📸 **Tip:** Place your screenshots inside an `images/` folder in the repo.
 
 ## ⚡ Installation
 
